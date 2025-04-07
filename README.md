@@ -2,7 +2,7 @@
 
 Overall 7 years of experience in iOS App Development using Swift, Objective-C and React Native. Currently working as iOS Developer and React Native Developer in Codelabs Indonesia. Experience in designing, developing and maintaining iOS applications using Xcode, Git, Sourcetree, Cocoapods, Firebase and Visual Studio Code, and having a knowledge of MVC and MVVM with reactive (Rx) and non-reactive programming.
 
-# [Shop & Drive Mobile Application](https://apps.apple.com/id/app/shop-drive-mobile-app/id1465864687)
+# [Shop & Drive Mobile Application‪](https://apps.apple.com/id/app/shop-drive-mobile-app/id1465864687#?platform=iphone)
 
 Shop&Drive Mobile App, a personal driving companion application, being built using native iOS language (Swift), using MVC and implementing RealmSwift for local database. The application includes feature of show locations of nearby and available Shop & Drive offline stores in each cities with directions and navigations, transactions (includes payment process) and reminder for car's owner to scheduled services date.
 
@@ -24,172 +24,155 @@ Junior iOS Developer, communicating with senior iOS Developer and Shop & Drive D
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
 </p>
 
-# [Vowpay Money Transfe‪r‬](https://apps.apple.com/us/app/id1095042185#?platform=iphone)
+# [Mister Aladin Hotel & Activity](https://apps.apple.com/id/app/mister-aladin-hotel-activity/id1144403123#?platform=iphone)
 
-Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users.
-Vowpay is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Travis CI.
+Mister Aladin is an application that helps user to book train or flight ticket for their vacation or business trip. The App provides many promos for online booking for train or flight ticket, also booking one or more room(s) in various hotels.
+Mister Aladin Application, being built using Swift and MVC, deals with the management of ticket reservations for transportation and accommodation. Transactions using virtual account is supported.
 
 ### My Role
 
-Senior iOS developer Communicating with Vowpay Bussiness team, New features and refactoring , understanding requirements and sprint planning.
+As an iOS Developer developing the feature for book and manage train ticket, update new features, fixing bugs and error, understanding requirements and planning documents, also collaborating with senior iOS Developer who working on developing the feature for book and manage flight ticket.
 
 ### Technologies
 
-- Swift(5)
-- RxSwift
-- Programatic UI
-- Modular Approaach
+- Swift(4.0)
+- Xcode(8.0)
+- MVC
+- RealmSwift
+- SwiftyJSON
+- Alamofire
+- Firebase
+- Google Sign In & Google Analytics
 - Dark mode support
-- Fastlane + Travis CI
-- Repository Patteren
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
+# [My FirstMedia](https://apps.apple.com/id/app/my-firstmedia/id1124277687?platform=iphone)
 
-An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
+My FirstMedia is a one stop selfcare app to manage FirstMedia account with features to manage First ID profile, check billing status and package information, view troubleshooting guide to fix most common problems that happens to the supported devices, and make online payment.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Hidebox is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. Hidebox is my ongoing project.
+The first project that I developed from scratch by myself, adapting to the app's UI design that has totally different styles from previous projects that I have developed before. My FirstMedia is built with Xcode(9.3) and written entirely in Swift(4.2) with iOS 9.0 as minimum iOS version, and using MVC for the architecture.
 
 ### My Role
 
-Senior iOS developer Communicating with client, understanding requirements and sprint planning.
+iOS Developer, communicating with project manager and client, understanding requirements and planning documents, using tools like Trello and Spreadsheet to manage tasks and features, ensuring smooth collaboration between iOS developers, and ensure alignment with the design by connecting our work to the Figma files provided by the UI/UX Designers.
 
 ### Technologies
 
-- Swift(4-5)
-- CoreData
-- CoreLocation
-- AVFoundation
-- Photos
-- Push Notifications
+- Swift(4.2)
+- Xcode(9.3)
+- MVC
 - Alamofire
-- Keychain
-- GoogleMaps
-- Firebase
-- Kingfisher
-- Hero
-- Lottie-Animations
-- GoogleSignIn
-- FBSDKLoginKit
+- RealmSwift
+- Push Notifications
+- Firebase Core, Messaging and Analytics
+- Multi-language supported (English-Indonesian), using Localizable.strings
+- Dark mode support
+
 <p align="center">
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
 </p>
 
-# [Slick](Under development)
+# [Siloam AMS](Unavailable on App Store)
 
-slick is an articles sharing platform which enables you to rate article authenticity.
-**Curate** articles from Apps,Websites and Print Media
-**Populate** your news feed by following Friends, Family or anyone that interests you. Find Contacts on slick or head to the Trending tab to follow users with similar interests
-**Rate** content for integrity, accuracy and trustworthiness
+Siloam AMS is an internal application for asset management system used by hospital staff and administrator, with various features for example report error on system or every facilities used in Siloam Hospitals or input data stock of every facilities and monitoring its condition.
 
-This application consists of best animationts with _UIDynamicAnimator_, UI design, and easily-extended architecture (_VIPER_) using Firebase realtime database with cloud storage and _ML kit_ for **OCR** Slick is built with Xcode and written entirely in Objective C. It utilizes Auto Layout with Storyboard for UI design.This app convert image news to Text and then Text to that news URL to post it in the application.
+This application is only available for internal users in Siloam Hospital such as staff and administrator. Using push notifications and firebase to ensure that both staff and administrators at Siloam Hospital receive real-time updates and accurate information regarding asset management, enabling better decision-making, efficient tracking, and improved operational transparency.
 
 ### My Role
 
-Lead iOS developer and team lead for iOS . Communicating with client, understanding requirements and sprint planning.
+iOS Developer, continue to develop existing application by updating new features, fixing bugs and error, understanding existing codes and patterns, communicating with Project Manager and collaborating with Android Developer and Backend Developer, understanding the requirements and planning documents also change request through documents provided by Project Manager.
 
 ### Technologies
 
-- Objective c
-- Reachability kit modified to add date support
-- CoreLocation
-- AVFoundation
-- Photos
-- Push Notifications with cloud messaging
-- Firebase Firestore
-- GoogleSignIn
-- FBSDKLoginKit
-- twitter-kit-ios
-- _Share Extension_
-- _today Extension_
-- 3D touch enabled
-- Face id and thumb Sign in enabled
+- Swift(4.0)
+- Xcode(9.3)
+- MVC
+- Alamofire
+- RealSwift
+- SwifyJSON
+- Push Notifications
+- Firebase Messaging
+- Multi-language supported (English-Indonesian), using Localizable.strings
 
 <p align="center">
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
 </p>
 
-# [SalamPlanet](https://itunes.apple.com/us/app/salamplanet/id1135829492?mt=8)
+# [Bravo](https://apps.apple.com/id/app/bravo/id1481538287)
 
-The Ultimate Muslim Lifestyle App.
-Explore Your Muslim Lifestyle – Socialize, Eat, Play and Pray with SALAM PLANET!
+An internal application developed for the Ministry of Public Works and Housing (PUPR), aimed at providing data, information, and practical solutions for employees within the PUPR environment. The app offers several services including attendance tracking, HR-related features, cooperative services, clinic access, and other internal tools — all intended to enhance convenience and efficiency for PUPR staff in their day-to-day work activities.
 
-Worked with a fast paced team to deliver features as soon as possible to the 500k users. SalamPlanet is written in Objective-C with some Swift modules. It has Storyboards as well as nibs.
+My second freelance project, developed using Swift and Xcode, involved building an internal application with integrated Push Notification support to ensure that employees receive the latest updates from the Ministry of Public Works and Housing (PUPR) related to their job activities. The app also enables users to submit attendance reports and request various employee entitlements, such as reimbursement claims, leave applications, and access to additional internal services.
 
 ### My Role
 
-Senior iOS developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows.
+Freelance iOS Developer, collaborating closely with backend developers and the project manager from the internal team at PT Mitra Sinerji Teknoindo, understanding the requirements and planning documents provided by Project Manager.
 
 ### Technologies
 
-- Objective-C
+- Swift(5.0)
+- Xcode(9.3)
+- MVC
+- Alamofire
+- SwiftyJSON
+- Charts
+
+<p align="center">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
+</p>
+
+# [RCTI+ Superapp](https://apps.apple.com/us/app/rcti-superapp/id1472168599)
+
+The entertainment application, provides various features starting from live streaming of national to international television, films, sports, to original series, national viral news updates, viral, celebrities, streaming online radio and listening to music to audio series, and create creative videos. The superapp with the main features that include Video+, News+, Audio+, HOT+ and Music+ which has many more sub-features in each of them.
+
+The first project I continued developing was built using the VIPER architecture combined with a modular approach, allowing the integration of various core features into a single application — the RCTI+ Superapp.
+
+### My Role
+
+iOS Developer, collaborating with Senior iOS Developer to continue developing some of the features inside the applications, starting from Video+, HOT+ and update authentication feature such as Login and Register, following the latest request from the client.
+
+### Technologies
+
+- Swift(4.2)
+- Xcode(9.3)
+- VIPER and Reactive Programming (Rx)
+- RxCocoa & RxSwift
 - CoreData
-- AVFoundation
-- Photos
-- Core Location
-- Push Notifications
-- AFNetworking
-- Keychain
-- GoogleMaps
 - Firebase
-- FBSDKLoginKit
+- IGListKit
+- Moya
+- GoogleAds-IMA-iOS-SDK & Google-Mobile-Ads-SDK
+- Conviva Libraries
+
 <p align="center">
 <img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
 
-# CocoaPods Contributions
+# [Paninti Store](https://apps.apple.com/id/app/paninti-o2o-shop-experience/id1589005923?l=id&platform=iphone)
 
-## [ReadabilityKit](https://github.com/exyte/ReadabilityKit)
-
-Preview extractor for news, articles and full-texts in Swift
+Paninti Store is an online shopping platform that provides the necessities to make life easier, offers a
+variety of products for the needs of mothers and children, as well as lifestyle. The App provides various features such as view list of products from various categories, view the details of product, add one or more product(s) to the cart, transactions that includes checkout product(s) and making online payment using Virtual Account or Bank Transfer.
 
 ### My Role
 
-Date extraction from response data
-
-<p align="center">
- <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif" title="Readability demo"/>
-</p>
- 
- ---
- 
-## [Smart Lazy Loading](https://github.com/jwd-ali/Smart-Lazy-Loading) 
-Fetch images from source url asynchronously on the basis of priority in Table or Collection View using NSCache and NSOperation
-for better performance
+iOS Developer and Lead of the Product Team, mentoring junior iOS developers and collaborating with the Paninti Store product team and Product Owner. Responsible for understanding and discussing requirements and requests from stakeholders to ensure the successful development of the Paninti Store application.
 
 ### Technologies
 
-- Swift(5)
-- NSOperation
-- NSOperationQueue with KVO
-- NSCache
-- NSUrlRequest
-- NSUrlSession
-
----
-
-## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController)
-
-An easy multiple image picker controller for photo library with swipe select enabled.
-
-- IOS 13 Dark mode enabled
-<p align="center">
-<a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
-</p>
-
-## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
-
-Easy to use customised action sheet picker inspired by UIAlertController
+- Swift(5.0)
+- Xcode(12.4)
+- VIPER
+- Alamofire
+- Push Notifications
+- Firebase Core, Firebase Analytics, Firebase Messaging
+- Google Maps, Google Places
+- Xendit Payment
+- Pusher
+- SwiftyJSON & SwiftyUserDefaults
 
 <p align="center">
-<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
-
-# Stack over flow Contributions
-
-I am an active contributor on stackoverflow :
-https://stackoverflow.com/story/jawadali
