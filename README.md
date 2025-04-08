@@ -293,6 +293,6 @@ As an iOS Developer developing the feature for book and manage train ticket, upd
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="200" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="180" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
 </kbd>
 </p>
