@@ -211,7 +211,7 @@ iOS Developer, communicating with project manager and client, understanding requ
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_splashscreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_outlet.png" width="150" title="Outlet">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_productDetail.png" width="150" title="Product Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_myOrder.png" width="150" title="Order List">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_splashscreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_outlet.png" width="150" title="Outlet">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_productDetail.png" width="150" title="Product Detail">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_myOrder.png" width="150" title="Order List">
 </kbd>
 </p>
 
@@ -238,7 +238,7 @@ iOS Developer, communicating with project manager and client, understanding requ
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_login.png" width="150" title="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_location.png" width="150" title="Detect User Location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_orderList.png" width="150" title="Order List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_account.png" width="150" title="Account">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_login.png" width="140" title="Login Screen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_location.png" width="150" title="Detect User Location">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_orderList.png" width="150" title="Order List">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_account.png" width="150" title="Account">
 </kbd>
 </p>
 
@@ -267,5 +267,32 @@ iOS Developer and Lead of the Product Team, mentoring junior iOS developers and 
 <p align="center">
 <kbd>
 <img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Flashsale.png" width="140" title="Flashsale Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Cart.png" width="140" title="Cart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Points.png" width="130" title="Points">
+</kbd>
+</p>
+
+# [Liburin](https://apps.apple.com/id/app/liburin/id1501311819)
+
+Liburin is an application that helps user to book train or flight ticket for their vacation or business trip. The App provides many promos for online booking for train or flight ticket, also booking one or more room(s) in various hotels.
+Liburin Application, being built using Swift and MVC, deals with the management of ticket reservations for transportation and accommodation. Transactions using virtual account is supported.
+
+### My Role
+
+As an iOS Developer developing the feature for book and manage train ticket, update new features, fixing bugs and error, understanding requirements and planning documents, also collaborating with senior iOS Developer who working on developing the feature for book and manage flight ticket.
+
+### Technologies
+
+- Swift(5.0)
+- Xcode(9.3)
+- MVVM with Reactive Programming
+- Alamofire
+- RxSwift, RxCocoa & RxDataSources
+- SwiftyJSON
+- SwiftyGif
+- JKCalendar
+- SideMenuSwift
+
+<p align="center">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="150" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
 </kbd>
 </p>
