@@ -211,7 +211,7 @@ iOS Developer, communicating with project manager and client, understanding requ
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_splashscreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_outlet.png" width="150" title="Outlet">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_productDetail.png" width="150" title="Product Detail">&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_myOrder.png" width="150" title="Order List">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_splashscreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_home.png" width="150" title="Home Screen">&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_outlet.png" width="150" title="Outlet">&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_productDetail.png" width="150" title="Product Detail">&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_myOrder.png" width="150" title="Order List">
 </kbd>
 </p>
 
@@ -293,6 +293,6 @@ As an iOS Developer developing the feature for book and manage train ticket, upd
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="150" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="200" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
 </kbd>
 </p>
