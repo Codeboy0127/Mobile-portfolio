@@ -21,7 +21,7 @@ Junior iOS Developer, communicating with senior iOS Developer and Shop & Drive D
 - RealmSwift
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Home.png" width="150"  title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Outlets.png" width="150" title="Outlets">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_MyCar.png" width="150" title="MyCar">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Products.png" width="150" title="Products">
 </p>
 
 # [Mister Aladin Hotel & Activity](https://apps.apple.com/id/app/mister-aladin-hotel-activity/id1144403123#?platform=iphone)
@@ -46,7 +46,7 @@ As an iOS Developer developing the feature for book and manage train ticket, upd
 - Dark mode support
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Vowpay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_Splashscreen.png" width="150"  title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_Home.png" width="150" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_SearchTrain.png" width="150" title="Search Train">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_TrainList.png" width="150" title="Train List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_TrainDetail.png" width="150" title="Train Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/misteraaladin/MisterAladin_BankTransfer.png" width="150" title="Payment Bank Transfer">
 </p>
 
 # [My FirstMedia](https://apps.apple.com/id/app/my-firstmedia/id1124277687?platform=iphone)
@@ -72,7 +72,7 @@ iOS Developer, communicating with project manager and client, understanding requ
 - Dark mode support
 
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-firstmedia/MyFM_SplashScreen.png" width="150"  title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-firstmedia/MyFM_Login.png" width="150" title="Login">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-firstmedia/MyFM_Home.png" width="150" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-firstmedia/MyFM_HomeDark.png" width="150" title="Home-Dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-firstmedia/MyFM_Profile.png" width="150" title="Profile">
 </p>
 
 # [Siloam AMS](Unavailable on App Store)
@@ -98,7 +98,7 @@ iOS Developer, continue to develop existing application by updating new features
 - Multi-language supported (English-Indonesian), using Localizable.strings
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/siloam-ams/Siloam_login.png" width="150" title="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/siloam-ams/Siloam_Home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/siloam-ams/Siloam_AssetRequest.png" width="150" title="Asset Request List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/siloam-ams/Siloam_AddAssetRequest.png" width="150" title="Add Asset Request">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/siloam-ams/Siloam_AssetHistory_UploadedFile.png" width="150" title="Asset History Files">
 </p>
 
 # [MyTrisula](https://apps.apple.com/id/app/mytrisula/id1518703021)
@@ -122,7 +122,7 @@ Freelance iOS Developer, collaborating closely with backend developers and the p
 - TextFieldEffects
 
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_SplashScreen.png" width="150"  title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Absensi.png" width="150" title="Absensi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_TambahAbsensi.png" width="150" title="Tambah Absensi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Reimbursement.png" width="150" title="Reimbursement">
 </p>
 
 # [Bravo](https://apps.apple.com/id/app/bravo/id1481538287)
@@ -145,7 +145,7 @@ Freelance iOS Developer, collaborating closely with backend developers and the p
 - Charts
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/bravo-pupr/bravo_login.png" width="150" title="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/bravo-pupr/bravo_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/bravo-pupr/bravo_absen.png" width="150" title="Absensi Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/bravo-pupr/bravo_absenAdd.png" width="150" title="Tambah Absen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/bravo-pupr/bravo_absenAddBottom.png" width="150" title="Tambah Absen(2)">
 </p>
 
 # [RCTI+ Superapp](https://apps.apple.com/us/app/rcti-superapp/id1472168599)
@@ -172,7 +172,7 @@ iOS Developer, collaborating with Senior iOS Developer to continue developing so
 - Conviva Libraries
 
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/rcti-plus/rcti_login.jpeg" width="150"  title="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/rcti-plus/rcti_news.jpeg" width="150" title="News+ Feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/rcti-plus/rcti_hot.jpeg" width="150" title="HOT+ Feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/rcti-plus/rcti_video.jpeg" width="150" title="Video+ Feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/rcti-plus/rcti_videoDetail.jpeg" width="150" title="Video+ Detail Screen">
 </p>
 
 # [Paninti Store](https://apps.apple.com/id/app/paninti-o2o-shop-experience/id1589005923?l=id&platform=iphone)
@@ -198,5 +198,5 @@ iOS Developer and Lead of the Product Team, mentoring junior iOS developers and 
 - SwiftyJSON & SwiftyUserDefaults
 
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Home.png" width="150"  title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Flashsale.png" width="150" title="Flashsale Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Detail.png" width="150" title="Product Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Cart.png" width="150" title="Cart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Points.png" width="150" title="Points">
 </p>
