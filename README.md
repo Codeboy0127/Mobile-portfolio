@@ -101,11 +101,35 @@ iOS Developer, continue to develop existing application by updating new features
 <img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
 </p>
 
+# [MyTrisula](https://apps.apple.com/id/app/mytrisula/id1518703021)
+
+An internal application developed for the Trisula Corporation, aimed at providing data, information, and practical solutions for employees within the Trisula Corporation environment. The app offers several services including attendance tracking, HR-related features, cooperative services, clinic access, and other internal tools — all intended to enhance convenience and efficiency for PUPR staff in their day-to-day work activities.
+
+My first freelance project, enables users to submit attendance reports and request various employee entitlements, such as reimbursement claims, leave applications, and access to additional internal services.
+
+### My Role
+
+Freelance iOS Developer, collaborating closely with backend developers and the project manager from the internal team at PT Mitra Sinerji Teknoindo, understanding the requirements from the clients through planning documents provided by Project Manager from PT Mitra Sinerji Teknoindo.
+
+### Technologies
+
+- Swift(4.2)
+- Xcode(9.3)
+- MVC
+- Alamofire
+- SwiftyJSON
+- ImageSlideshow
+- TextFieldEffects
+
+<p align="center">
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+</p>
+
 # [Bravo](https://apps.apple.com/id/app/bravo/id1481538287)
 
 An internal application developed for the Ministry of Public Works and Housing (PUPR), aimed at providing data, information, and practical solutions for employees within the PUPR environment. The app offers several services including attendance tracking, HR-related features, cooperative services, clinic access, and other internal tools — all intended to enhance convenience and efficiency for PUPR staff in their day-to-day work activities.
 
-My second freelance project, developed using Swift and Xcode, involved building an internal application with integrated Push Notification support to ensure that employees receive the latest updates from the Ministry of Public Works and Housing (PUPR) related to their job activities. The app also enables users to submit attendance reports and request various employee entitlements, such as reimbursement claims, leave applications, and access to additional internal services.
+My second freelance project, ensuring that employees receive the latest updates from the Ministry of Public Works and Housing (PUPR) related to their job activities. The app also enables users to submit attendance reports and request various employee entitlements, such as reimbursement claims, leave applications, and access to additional internal services.
 
 ### My Role
 
