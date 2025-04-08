@@ -131,7 +131,7 @@ Freelance iOS Developer, collaborating closely with backend developers and the p
 
 <p align="center">
 <kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_SplashScreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Home.png" width="135" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Absensi.png" width="150" title="Absensi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_TambahAbsensi.png" width="150" title="Tambah Absensi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Reimbursement.png" width="150" title="Reimbursement">
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_SplashScreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Home.png" width="135" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_Absensi.png" width="150" title="Absensi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/my-trisula/Trisula_TambahAbsensi.png" width="150" title="Tambah Absensi">
 </kbd>
 </p>
 
