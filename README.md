@@ -189,6 +189,59 @@ iOS Developer, collaborating with Senior iOS Developer to continue developing so
 </kbd>
 </p>
 
+# [SiTepat](https://apps.apple.com/id/app/sitepat/id6443494938)
+
+SiTepat Digital Integrated Motoshop is a Modern retail motorcycle maintenance shop, designed for a reliable and speedy motorcycle care and replacement of tire oil battery & EV Product. The application includes feature of show locations of nearby and available outlet stores in each cities with directions and navigations, booking service for motorcycle and transactions (includes payment process).
+
+### My Role
+
+iOS Developer, communicating with project manager and client, understanding requirements and planning documents, using tools like Trello and Spreadsheet to manage tasks and features, ensuring smooth collaboration between iOS developers, and ensure alignment with the design by connecting our work to the Figma files provided by the UI/UX Designers.
+
+### Technologies
+
+- Swift(5.0)
+- Xcode(9.3)
+- MVC
+- Alamofire
+- Push Notifications
+- Firebase Core, Firebase Messaging
+- Google Maps, Google Places
+- Apple's MapKit
+- RealmSwift
+
+<p align="center">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_splashscreen.png" width="150" title="Splashscreen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_outlet.png" width="150" title="Outlet">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_productDetail.png" width="150" title="Product Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/sitepat/Sitepat_myOrder.png" width="150" title="Order List">
+</kbd>
+</p>
+
+# [Gadespace](https://apps.apple.com/us/app/gadespace/id6499009538?platform=iphone)
+
+Gadespace is an online shopping platform that helps users to shop from all UMKM in Indonesia. The App provides various features such as view list of products from various categories, view the details of product, add product(s) to the cart, transactions that includes checkout product(s) and making online payment.
+
+### My Role
+
+iOS Developer, communicating with project manager and client, understanding requirements and planning documents, using tools like Trello and Spreadsheet to manage tasks and features, ensuring smooth collaboration between iOS developers, and ensure alignment with the design by connecting our work to the Figma files provided by the UI/UX Designers.
+
+### Technologies
+
+- Swift(5.0)
+- Xcode(9.3)
+- MVC
+- Alamofire
+- Push Notifications
+- Firebase Core, Firebase Messaging
+- GoogleSignIn
+- FBSDKCoreKit
+- Google Maps, Google Places
+- Apple's MapKit
+
+<p align="center">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_login.png" width="150" title="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_location.png" width="150" title="Detect User Location">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_orderList.png" width="150" title="Order List">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/gadespace/gadespace_account.png" width="150" title="Account">
+</kbd>
+</p>
+
 # [Paninti Store](https://apps.apple.com/id/app/paninti-o2o-shop-experience/id1589005923?l=id&platform=iphone)
 
 Paninti Store is an online shopping platform that provides the necessities to make life easier, offers a
