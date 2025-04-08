@@ -198,5 +198,7 @@ iOS Developer and Lead of the Product Team, mentoring junior iOS developers and 
 - SwiftyJSON & SwiftyUserDefaults
 
 <p align="center">
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Home.png" width="150" title="Home Screen" style="border: 0.5px solid black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Flashsale.png" width="140" title="Flashsale Screen" style="border: 0.5px solid black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Cart.png" width="150" title="Cart" style="border: 0.5px solid black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Points.png" width="150" title="Points" style="border: 0.5px solid black">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Home.png" width="150" title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Flashsale.png" width="140" title="Flashsale Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Cart.png" width="150" title="Cart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paninti/Paninti_Points.png" width="150" title="Points">
+</kbd>
 </p>
