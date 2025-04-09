@@ -296,3 +296,37 @@ As an iOS Developer developing the feature for book and manage train ticket, upd
 <img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_sidemenu.png" width="180" title="Side Menu" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/liburin/liburin_searchTrain.png" width="150" title="Search Train" >
 </kbd>
 </p>
+
+# --React Native Projects--
+
+# Paseero Nigeria: Sell & Buy
+
+## [Android App](https://play.google.com/store/apps/details?id=com.paseerorn&pcampaignid=web_share)
+
+## [iOS App](https://apps.apple.com/id/app/paseero/id6667113032)
+
+Paseero, the go-to app with great deals for all online sales and purchases ini Nigeria for new and used items. The application provides user with various features, starting from explore a vast selection of products from trusted sellers, refunds for items purchased guaranteed, auctioning items / products for seller to get more value, where buyers can get even better deals by placing competitive bids on auction items.
+
+This was the first freelance project that I have developed using React Native, where I had to adapt to a different coding paradigm compared to native iOS development with Swift. The project was structured into several modular sections, including assets, feature components, API configuration for RESTful implementation, screens, and navigation — ensuring better maintainability and scalability across the application.
+
+### My Role
+
+As a junior Mobile Developer using React Native, developing the feature while understanding the code paradigm in React Native, communicating and collaborating with senior Mobile React Native Developer, understanding requirements and planning documents.
+
+### Technologies
+
+- React Native(0.72.2)
+- Typescript
+- npm & yarn
+- Visual Studio Code(1.99.0)
+- react-native-firebase/messaging
+- react-redux
+- axios(1.6.5)
+- Kotlin
+- Objective-C
+
+<p align="center">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_splashscreen.png" width="150" title="Splashscreen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_detailProduct.png" width="150" title="Product Detail" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_profile.png" width="150" title="Profile" >
+</kbd>
+</p>
