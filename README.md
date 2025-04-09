@@ -299,11 +299,7 @@ As an iOS Developer developing the feature for book and manage train ticket, upd
 
 # --React Native Projects--
 
-# Paseero Nigeria: Sell & Buy
-
-## [Android App](https://play.google.com/store/apps/details?id=com.paseerorn&pcampaignid=web_share)
-
-## [iOS App](https://apps.apple.com/id/app/paseero/id6667113032)
+# Paseero Nigeria: Sell & Buy [[Android App](https://play.google.com/store/apps/details?id=com.paseerorn&pcampaignid=web_share) | [iOS App](https://apps.apple.com/id/app/paseero/id6667113032)]
 
 Paseero, the go-to app with great deals for all online sales and purchases ini Nigeria for new and used items. The application provides user with various features, starting from explore a vast selection of products from trusted sellers, refunds for items purchased guaranteed, auctioning items / products for seller to get more value, where buyers can get even better deals by placing competitive bids on auction items.
 
@@ -328,5 +324,37 @@ As a junior Mobile Developer using React Native, developing the feature while un
 <p align="center">
 <kbd>
 <img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_splashscreen.png" width="150" title="Splashscreen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_detailProduct.png" width="150" title="Product Detail" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/paseero/Paseero_profile.png" width="150" title="Profile" >
+</kbd>
+</p>
+
+# Nex [[Android App](https://play.google.com/store/apps/details?id=com.nexdc.app&pcampaignid=web_share) | [iOS App](https://apps.apple.com/id/app/nex-mobile/id6475137335)]
+
+Nex Mobile is an application from Nex Datacenter, provider of premium carrier-neutral data centres in Indonesia. The Application provides various features, starting from choose and check detail of Site Locations, manage subscriptions of data center, access e-document related to data center management (SLA, etc), manage billing and manage profile.
+
+This application implement push notifications that used for reminds user if there's an update from their request (such as create vising booking or customer service) or something related to the billing information.
+
+### My Role
+
+As a junior Mobile Developer using React Native, I continued the development of this existing application to fix bugs and errors, as well as to implement new feature updates based on the client’s needs and requirements, While maintaining ongoing communication with the previous Mobile Developer and Project Manager to fully understand the requirements and changes to be implemented in the application.
+
+### Technologies
+
+- React Native(0.72.7)
+- Typescript
+- npm & yarn
+- Visual Studio Code(1.99.0)
+- react-native-firebase
+- react-redux
+- react-native-push-notification
+- react-native-svg
+- react native document & image picker
+- react native charts
+- axios(1.6.5)
+- Kotlin
+- Objective-C
+
+<p align="center">
+<kbd>
+<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/nex/nex_splashscreen.png" width="150" title="Splashscreen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/nex/nex_login.png" width="150" title="Login Screen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/nex/nex_home.png" width="150" title="Home Screen" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/nex/nex_billing.png" width="150" title="Billing Screen" >
 </kbd>
 </p>
