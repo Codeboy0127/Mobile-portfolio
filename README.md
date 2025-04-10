@@ -343,9 +343,8 @@ As a junior Mobile Developer using React Native, I continued the development of 
 - Typescript
 - npm & yarn
 - Visual Studio Code(1.99.0)
-- react-native-firebase
+- react-native-firebase & react-native-push-notification
 - react-redux
-- react-native-push-notification
 - react-native-svg
 - react native document & image picker
 - react native charts
