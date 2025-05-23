@@ -2,26 +2,6 @@
 
 Overall 3 years of experience in Mobile App Development using Swift and React Native. Experience in designing, developing and maintaining iOS applications using Xcode, Git, Sourcetree, Firebase and Visual Studio Code, and having a knowledge of MVC and MVVM with reactive (Rx) and non-reactive programming.
 
-# [Shop & Drive Mobile Application‪](https://apps.apple.com/id/app/shop-drive-mobile-app/id1465864687#?platform=iphone)
-
-Shop&Drive Mobile App, a personal driving companion application, being built using native iOS language (Swift), using MVC and implementing RealmSwift for local database. The application includes feature of show locations of nearby and available Shop & Drive offline stores in each cities with directions and navigations, transactions (includes payment process) and reminder for car's owner to scheduled services date.
-
-### Technologies
-
-- Swift(4.0)
-- Xcode(8.0)
-- MVC
-- Alamofire
-- Google Maps, Google Places
-- Firebase Core & Messaging
-- RealmSwift
-
-<p align="center">
-<kbd>
-<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Home.png" width="150"  title="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Outlets.png" width="150" title="Outlets">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/septiarianirani/Mobile-iOS-Portfolio/blob/main/images/shop-n-drive/SnD_Products.png" width="150" title="Products">
-</kbd>
-</p>
-
 # [Mister Aladin Hotel & Activity](https://apps.apple.com/id/app/mister-aladin-hotel-activity/id1144403123#?platform=iphone)
 
 Mister Aladin is an application that helps user to book train or flight ticket for their vacation or business trip. The App provides many promos for online booking for train or flight ticket, also booking one or more room(s) in various hotels.
