@@ -1,6 +1,6 @@
 # IOS-Portfolio
 
-Overall 4 years of experience in Mobile App Development using Swift and React Native. Experience in designing, developing and maintaining iOS applications using Xcode, Git, Sourcetree, Cocoapods, Firebase and Visual Studio Code, and having a knowledge of MVC and MVVM with reactive (Rx) and non-reactive programming.
+Overall 3 years of experience in Mobile App Development using Swift and React Native. Experience in designing, developing and maintaining iOS applications using Xcode, Git, Sourcetree, Firebase and Visual Studio Code, and having a knowledge of MVC and MVVM with reactive (Rx) and non-reactive programming.
 
 # [Shop & Drive Mobile Application‪](https://apps.apple.com/id/app/shop-drive-mobile-app/id1465864687#?platform=iphone)
 
